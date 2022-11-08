@@ -43,6 +43,7 @@
     transform: scale(0);
     display: none;
     transition: 0.3s linear all;
+    z-index: 10;
 
     .mega_menu_left {
       width: 295px;
